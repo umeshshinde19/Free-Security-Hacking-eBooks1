@@ -111,7 +111,7 @@ Support the authors: Umesh Shinde
 ### Need more ?
 
 
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
+Follow **Umeshshinde19 with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@umeshshinde19](https://twitter.com/umeshshinde19)
  - Facebook : [Umesh Shinde Ethical Hacker](https://www.facebook.com/umeshshindeethicalhanker/)
  
